@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028352, g: 0.22571376, b: 0.30692244, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -283,7 +283,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: ef3ed282d3f433f4e81d0e5a8be0e267, type: 3}
+  m_Sprite: {fileID: 21300000, guid: c83b9d72fd4a5ef4090a7af39be6ce2f, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -310,15 +310,15 @@ RectTransform:
   m_GameObject: {fileID: 221653307}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.6818, y: 0.6818, z: 0.6818}
+  m_LocalScale: {x: 0.8062285, y: 1.1984766, z: 0.6818}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1978789144}
-  m_RootOrder: 6
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -559, y: 43}
+  m_AnchoredPosition: {x: -559, y: -59}
   m_SizeDelta: {x: 562, y: 547}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &228888716
@@ -1165,8 +1165,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Verdict?
 
-    Should this person be sent to life in jail for ending his
-    mothers like? Even if it was what she wanted with consent?'
+    Should this person be sent to life in jail for murder? Even
+    if it was self defence?'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1509,7 +1509,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1978789144}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -2252,30 +2252,50 @@ MonoBehaviour:
   textDisplay: {fileID: 884588889}
   nextButton: {fileID: 1966686595}
   texts:
-  - text: 'My elderly mother was diagnosed with stage 4 pancreatic cancer and she
-      spent her days laying in her bed in pain.  '
+  - text: I am a single mother of 2 kids aged 14 and 11 and I have a full time job.
     sound: {fileID: 8300000, guid: e417d622219bb244cad581dadbc722ee, type: 3}
     imageObject: {fileID: 221653307}
-  - text: 'Seeing her like this was killing me and there was so much I wanted to
-      do for her, but couldn''t. '
+  - text: The neighbourhood I live in is kinda sketchy  so I try to be home as much
+      as possible to protect my kids.
     sound: {fileID: 8300000, guid: 149cdae28f731a9449a134b96216430d, type: 3}
-    imageObject: {fileID: 953916536}
-  - text: 'Towards the end, she couldn''t take the pain any more and asked me to
-      help her "be free" and would ask me on a regular basis to help her. '
+    imageObject: {fileID: 221653307}
+  - text: One night, my kids and I were asleep in bed when I heard the  doorknob
+      of the back door jiggle.
     sound: {fileID: 8300000, guid: e43b7c94adb1ab9419c9bc2925313c51, type: 3}
-    imageObject: {fileID: 15402660}
-  - text: 'I knew what she was asking was wrong but I had this feeling of guilt that
-      I knew would grow more and more everyday if I said no. '
+    imageObject: {fileID: 221653307}
+  - text: I knew what was happening so I grabbed a knife and ran into my kids bedroom
+      and told them to be  quiet.
     sound: {fileID: 8300000, guid: e5f2dc70b7490b74997dabcb6439adfd, type: 3}
-    imageObject: {fileID: 953916536}
-  - text: 'So I got as many pain meds as I could and kept giving them to her until
-      she was gone. '
+    imageObject: {fileID: 221653307}
+  - text: I could hear the burglar walking around my house calling for me to come
+      out.
     sound: {fileID: 8300000, guid: be24e7857e14ea94d85e7b4e474a175c, type: 3}
-    imageObject: {fileID: 15402660}
-  - text: I don't feel any type of remorse because I know this is what she wanted
-      and I finally feel like I was able to help her one last time.
+    imageObject: {fileID: 221653307}
+  - text: I knew if I stayed in the bedroom, he would  fiond my kids and put them
+      in danger.
     sound: {fileID: 8300000, guid: a94bb7c4b57322e49a7100b2b05fad6a, type: 3}
-    imageObject: {fileID: 953916536}
+    imageObject: {fileID: 221653307}
+  - text: So I walked into the lounge room to confront the man and tell him to leave
+      when I noticed he  has been on the news for kidnapping children, he had a large
+      knife too.
+    sound: {fileID: 8300000, guid: a94bb7c4b57322e49a7100b2b05fad6a, type: 3}
+    imageObject: {fileID: 221653307}
+  - text: He noticed the photos of my kids and told me to tell him where they were,
+      I refused and told him to get out or I would call the police.
+    sound: {fileID: 8300000, guid: a94bb7c4b57322e49a7100b2b05fad6a, type: 3}
+    imageObject: {fileID: 221653307}
+  - text: After I said this, he lunged toward me and managed to cut my forearm with
+      the knife and this is where I retaliated  and I saw red.
+    sound: {fileID: 8300000, guid: a94bb7c4b57322e49a7100b2b05fad6a, type: 3}
+    imageObject: {fileID: 221653307}
+  - text: I stood up and knew I would have to take him down to protect my kids so
+      I walked behind him and slit his throat.
+    sound: {fileID: 8300000, guid: a94bb7c4b57322e49a7100b2b05fad6a, type: 3}
+    imageObject: {fileID: 221653307}
+  - text: I knew if I stayed in the bedroom, he would  fiond my kids and put them
+      in danger.
+    sound: {fileID: 8300000, guid: a94bb7c4b57322e49a7100b2b05fad6a, type: 3}
+    imageObject: {fileID: 221653307}
   nextCanvas: {fileID: 930872452}
   canvasToDisable: {fileID: 1978789140}
   disableCanvasOnComplete: 1
@@ -2819,7 +2839,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1978789144}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -3163,7 +3183,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1978789144}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -3358,16 +3378,16 @@ RectTransform:
   m_GameObject: {fileID: 1966686593}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2.0872, y: 2.0872, z: 2.0872}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1389372640}
   m_Father: {fileID: 1978789144}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 254, y: 0}
+  m_AnchoredPosition: {x: 721, y: -461}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1966686595
@@ -3557,13 +3577,13 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 221653310}
   - {fileID: 1983854715}
   - {fileID: 884588888}
   - {fileID: 1966686594}
   - {fileID: 1756270355}
   - {fileID: 1501485777}
   - {fileID: 1009289332}
-  - {fileID: 221653310}
   - {fileID: 15402661}
   - {fileID: 1681358343}
   - {fileID: 953916539}
@@ -3634,7 +3654,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1978789144}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -3745,7 +3765,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3631004770358303900, guid: 539f45ae68ba1e14295c731fc93756a0, type: 3}
       propertyPath: m_RootOrder
-      value: 5
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 3631004770358303900, guid: 539f45ae68ba1e14295c731fc93756a0, type: 3}
       propertyPath: m_AnchorMax.x
