@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028352, g: 0.22571376, b: 0.30692244, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1165,10 +1165,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Verdict?
 
-    is the grey troll guilty for not following
-
-    the queen
-    trolls command to watch family guy'
+    Should this person be sent to life in jail for ending his
+    mothers like? Even if it was what she wanted with consent?'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1986,11 +1984,6 @@ RectTransform:
   m_AnchoredPosition: {x: 177, y: -75}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!1 &1009289331 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3631004770358303899, guid: 539f45ae68ba1e14295c731fc93756a0, type: 3}
-  m_PrefabInstance: {fileID: 3631004771094893800}
-  m_PrefabAsset: {fileID: 0}
 --- !u!224 &1009289332 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 3631004770358303900, guid: 539f45ae68ba1e14295c731fc93756a0, type: 3}
@@ -2259,54 +2252,30 @@ MonoBehaviour:
   textDisplay: {fileID: 884588889}
   nextButton: {fileID: 1966686595}
   texts:
-  - text: Branch, You have to watch Family Guy
-    sound: {fileID: 8300000, guid: a58724db85f13ec4baab3c0139f14d56, type: 3}
+  - text: 'My elderly mother was diagnosed with stage 4 pancreatic cancer and she
+      spent her days laying in her bed in pain.  '
+    sound: {fileID: 8300000, guid: e417d622219bb244cad581dadbc722ee, type: 3}
     imageObject: {fileID: 221653307}
-  - text: I told you, I don't watch Family guy
-    sound: {fileID: 8300000, guid: 009aea8ac8e1a45419a577fb92479c0a, type: 3}
+  - text: 'Seeing her like this was killing me and there was so much I wanted to
+      do for her, but couldn''t. '
+    sound: {fileID: 8300000, guid: 149cdae28f731a9449a134b96216430d, type: 3}
     imageObject: {fileID: 953916536}
-  - text: Well you have to
-    sound: {fileID: 8300000, guid: 9a8773a451f5ec9419a678effb47e560, type: 3}
+  - text: 'Towards the end, she couldn''t take the pain any more and asked me to
+      help her "be free" and would ask me on a regular basis to help her. '
+    sound: {fileID: 8300000, guid: e43b7c94adb1ab9419c9bc2925313c51, type: 3}
     imageObject: {fileID: 15402660}
-  - text: I'm sorry, I can't
-    sound: {fileID: 8300000, guid: 624ec9564946d464b9d6145401d2b9f3, type: 3}
+  - text: 'I knew what she was asking was wrong but I had this feeling of guilt that
+      I knew would grow more and more everyday if I said no. '
+    sound: {fileID: 8300000, guid: e5f2dc70b7490b74997dabcb6439adfd, type: 3}
     imageObject: {fileID: 953916536}
-  - text: No, You can you just won't
-    sound: {fileID: 8300000, guid: 609250e747fa83e468dfe6221e95fc7e, type: 3}
+  - text: 'So I got as many pain meds as I could and kept giving them to her until
+      she was gone. '
+    sound: {fileID: 8300000, guid: be24e7857e14ea94d85e7b4e474a175c, type: 3}
     imageObject: {fileID: 15402660}
-  - text: Fine, I just won't
-    sound: {fileID: 8300000, guid: a84fa72158b388c4fb996d2c8a4e7f9d, type: 3}
+  - text: I don't feel any type of remorse because I know this is what she wanted
+      and I finally feel like I was able to help her one last time.
+    sound: {fileID: 8300000, guid: a94bb7c4b57322e49a7100b2b05fad6a, type: 3}
     imageObject: {fileID: 953916536}
-  - text: You have to!
-    sound: {fileID: 8300000, guid: 96c08f9f8d8e3e847bacd3ba69483f28, type: 3}
-    imageObject: {fileID: 15402660}
-  - text: No
-    sound: {fileID: 8300000, guid: a509330595f664b488f7b4266bcf77fe, type: 3}
-    imageObject: {fileID: 953916536}
-  - text: Yes!
-    sound: {fileID: 8300000, guid: e04f619663ab4bc49abafa5cb601d97c, type: 3}
-    imageObject: {fileID: 1681358342}
-  - text: No!
-    sound: {fileID: 8300000, guid: 5cb5b20ac8d0635419b8382a99f98ea6, type: 3}
-    imageObject: {fileID: 953916536}
-  - text: Why Not! Why won't you watch Family guy?
-    sound: {fileID: 8300000, guid: ec4dcea2fc8d9d6419085a75a20bc927, type: 3}
-    imageObject: {fileID: 15402660}
-  - text: Because Family guy killed my grandma okay
-    sound: {fileID: 8300000, guid: 4169787be97467d4db320fa7651d315c, type: 3}
-    imageObject: {fileID: 953916536}
-  - text: Leave me alone
-    sound: {fileID: 8300000, guid: 347f3eab71e268240900fd547fc576a2, type: 3}
-    imageObject: {fileID: 1917192329}
-  - text: How did Family guy kill your grandma?
-    sound: {fileID: 8300000, guid: 23ccbad3f7e46e844bb5cb1f12fb1c5b, type: 3}
-    imageObject: {fileID: 1009289331}
-  - text: What episode was she watching?
-    sound: {fileID: 8300000, guid: 94bd22afe40d6444e86f083ad3472353, type: 3}
-    imageObject: {fileID: 1009289331}
-  - text: I was the one watching
-    sound: {fileID: 8300000, guid: 2a2cfb38d7a85ef46b8a56daacfd035a, type: 3}
-    imageObject: {fileID: 1917192329}
   nextCanvas: {fileID: 930872452}
   canvasToDisable: {fileID: 1978789140}
   disableCanvasOnComplete: 1
