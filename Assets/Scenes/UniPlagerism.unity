@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028352, g: 0.22571376, b: 0.30692244, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1165,8 +1165,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Verdict?
 
-    Should this person be sent to life in jail for ending his
-    mothers like? Even if it was what she wanted with consent?'
+    Should this university be sued for exposing him like that?
+    Or should this person just suck it up and move on?'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2254,35 +2254,35 @@ MonoBehaviour:
   texts:
   - text: I am a university student and I was struggling to get good marks on my
       projects.
-    sound: {fileID: 8300000, guid: e417d622219bb244cad581dadbc722ee, type: 3}
+    sound: {fileID: 8300000, guid: efefa4d6142435f488e7cf90e3349fab, type: 3}
     imageObject: {fileID: 221653307}
   - text: I was getting so tired of feeling like I wasn't  smart enough to pass each
       class so I thought of a plan.
-    sound: {fileID: 8300000, guid: 149cdae28f731a9449a134b96216430d, type: 3}
+    sound: {fileID: 8300000, guid: b3d63b20d96e2814a851a4ff86d7e25c, type: 3}
     imageObject: {fileID: 221653307}
   - text: I had to write a 1000 word essay on why games were invented and I absolutely
       hate  writing esssays and was dreading this project for weeks.
-    sound: {fileID: 8300000, guid: e43b7c94adb1ab9419c9bc2925313c51, type: 3}
+    sound: {fileID: 8300000, guid: 6cb273e823a32524cb09dd6916c498ac, type: 3}
     imageObject: {fileID: 221653307}
   - text: I decided to find a similar essay online and submit it as my own, I thought
-      is was a great idea until the next class.
-    sound: {fileID: 8300000, guid: e5f2dc70b7490b74997dabcb6439adfd, type: 3}
+      it was a great idea until the next class.
+    sound: {fileID: 8300000, guid: 0742af2a41237f04ab3b81c24bbe5f71, type: 3}
     imageObject: {fileID: 221653307}
   - text: My teacher realised what I did and blurted out to the whole class that
       I plagarised my project and will  be failing the class.
-    sound: {fileID: 8300000, guid: be24e7857e14ea94d85e7b4e474a175c, type: 3}
+    sound: {fileID: 8300000, guid: 087990db5b1dd6f48a1450912d117036, type: 3}
     imageObject: {fileID: 221653307}
   - text: I have never been so humiliated in my life and ever since that day, I have
       been non-stop bullied by my classmates.
-    sound: {fileID: 8300000, guid: a94bb7c4b57322e49a7100b2b05fad6a, type: 3}
+    sound: {fileID: 8300000, guid: 1b1fafba1449d68449c4f6e3f002afc3, type: 3}
     imageObject: {fileID: 221653307}
   - text: I want to sue the university for humiliating me in front of everyone which
-      caused my mental health to decline rapidly, I knew what I did was wrong but
-      I should not of been exposed like that.
-    sound: {fileID: 8300000, guid: a94bb7c4b57322e49a7100b2b05fad6a, type: 3}
+      caused my mental health to decline rapidly.
+    sound: {fileID: 8300000, guid: 5d2530e43b1294c46a6bf8bc0be83625, type: 3}
     imageObject: {fileID: 221653307}
-  - text: 'Are you on my side? '
-    sound: {fileID: 8300000, guid: a94bb7c4b57322e49a7100b2b05fad6a, type: 3}
+  - text: I knew what I did was wrong but I should not of been exposed like that.
+      Are you on my side?
+    sound: {fileID: 8300000, guid: c905219f987389a4b8de05337b70c86a, type: 3}
     imageObject: {fileID: 221653307}
   nextCanvas: {fileID: 930872452}
   canvasToDisable: {fileID: 1978789140}

@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028352, g: 0.22571376, b: 0.30692244, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1165,8 +1165,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Verdict?
 
-    Is this beautiful lady innocent and telling the truth? Or
-    is this slander and she is guilty?'
+    Is this lady right? Or should the company not be exposed
+    for it''s mangers'' actions?'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2253,53 +2253,45 @@ MonoBehaviour:
   nextButton: {fileID: 1966686595}
   texts:
   - text: I was employed at a very successful tech company that was known for its
-      inovative laptop designs each year.
-    sound: {fileID: 8300000, guid: e417d622219bb244cad581dadbc722ee, type: 3}
+      innovative laptop designs each year.
+    sound: {fileID: 8300000, guid: a5fb41d637914c44288498bcf33a6912, type: 3}
     imageObject: {fileID: 221653307}
-  - text: My role was testing the newly made products  before they were released
-      to the general population.
-    sound: {fileID: 8300000, guid: 149cdae28f731a9449a134b96216430d, type: 3}
+  - text: 'My role was testing the newly made products before they were released
+      to the general population. '
+    sound: {fileID: 8300000, guid: 9cb8174893202e74d896abfb4a2fa1df, type: 3}
     imageObject: {fileID: 221653307}
-  - text: I have always sturggled for money and have spent countless years trying
-      to find a job that I love as well as earn a lot of money.
-    sound: {fileID: 8300000, guid: e43b7c94adb1ab9419c9bc2925313c51, type: 3}
+  - text: 'I have always struggled for money and have spent countless years trying
+      to find a job that I love as well as earn a lot of money. '
+    sound: {fileID: 8300000, guid: 9663ec1f6b302764db7a8ab28d6a13fc, type: 3}
     imageObject: {fileID: 221653307}
   - text: Recently, my manager was replaced by a new guy and my work day has not
       been the same since.
-    sound: {fileID: 8300000, guid: e5f2dc70b7490b74997dabcb6439adfd, type: 3}
+    sound: {fileID: 8300000, guid: 7a12f93fb00b9ef43ae9820de903cc0a, type: 3}
     imageObject: {fileID: 221653307}
-  - text: He is constantly staring at me, making flirtatious comments in front of
-      my peers and last week, he brought me into his office alone.
-    sound: {fileID: 8300000, guid: be24e7857e14ea94d85e7b4e474a175c, type: 3}
+  - text: 'He is constantly staring at me, making flirtatious comments in front of
+      my peers and last week, he brought me into his office alone.  '
+    sound: {fileID: 8300000, guid: 4d030403380f2ea49aa841a747add5ed, type: 3}
     imageObject: {fileID: 221653307}
   - text: At first I was confused because I thought that I was doing all of my work
-      correctly.
-    sound: {fileID: 8300000, guid: a94bb7c4b57322e49a7100b2b05fad6a, type: 3}
-    imageObject: {fileID: 221653307}
-  - text: As soon as I sat down, he started flirting with me and leaning towards
+      correctly. As soon as I sat down, he started flirting with me and leaning towards
       me.
-    sound: {fileID: 8300000, guid: a94bb7c4b57322e49a7100b2b05fad6a, type: 3}
+    sound: {fileID: 8300000, guid: 2d7b1fa78c3d35940b3e309736cbfde0, type: 3}
     imageObject: {fileID: 221653307}
   - text: I told him to stop, but he grabbed my arm and quietly said "I love you",
       I instantly pulled away and said I was going to tell HR.
-    sound: {fileID: 8300000, guid: a94bb7c4b57322e49a7100b2b05fad6a, type: 3}
+    sound: {fileID: 8300000, guid: 7ba7a6e1798a49c45b76de769fefcca3, type: 3}
     imageObject: {fileID: 221653307}
-  - text: I ended up telling HR hoping he would be the one to get fired, but turns
-      out my manager found out and fired me! This is ridiculous and I want compensation
-      for the work I lost and mental sufferi
-    sound: {fileID: 8300000, guid: a94bb7c4b57322e49a7100b2b05fad6a, type: 3}
+  - text: That's when he stood in front of the door and said I would tell HR, he
+      would fire me.
+    sound: {fileID: 8300000, guid: 05af7416141ea3441a60963845ffceb7, type: 3}
     imageObject: {fileID: 221653307}
-  - text: That's when he  stood in front of the door and said if I told HR, he would
-      fire me.
-    sound: {fileID: 8300000, guid: a94bb7c4b57322e49a7100b2b05fad6a, type: 3}
-    imageObject: {fileID: 221653307}
-  - text: I ended up telling HR hoping he would be the one to get fired, but turns
-      out my manager found out and fired me!
-    sound: {fileID: 8300000, guid: a94bb7c4b57322e49a7100b2b05fad6a, type: 3}
+  - text: 'I ended up telling HR hoping he would be the one to get fired, but turns
+      out my manager found out and fired me!  '
+    sound: {fileID: 8300000, guid: a6fe17553e3b2184f8d54884a82b26af, type: 3}
     imageObject: {fileID: 221653307}
   - text: This is ridiculous and I want compensation for the work I lost and mental
       suffering I endured.
-    sound: {fileID: 8300000, guid: a94bb7c4b57322e49a7100b2b05fad6a, type: 3}
+    sound: {fileID: 8300000, guid: c17677a5e17123d458e165841bf14dc8, type: 3}
     imageObject: {fileID: 221653307}
   nextCanvas: {fileID: 930872452}
   canvasToDisable: {fileID: 1978789140}

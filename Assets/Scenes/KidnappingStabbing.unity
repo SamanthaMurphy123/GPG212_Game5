@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028352, g: 0.22571376, b: 0.30692244, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -2252,49 +2252,43 @@ MonoBehaviour:
   textDisplay: {fileID: 884588889}
   nextButton: {fileID: 1966686595}
   texts:
-  - text: I am a single mother of 2 kids aged 14 and 11 and I have a full time job.
-    sound: {fileID: 8300000, guid: e417d622219bb244cad581dadbc722ee, type: 3}
+  - text: 'I am a single mother of 2 kids aged 14 and 11 and I have a full time job. '
+    sound: {fileID: 8300000, guid: b625250ac8d8fc14a9bd8a7bbc6e5520, type: 3}
     imageObject: {fileID: 221653307}
-  - text: The neighbourhood I live in is kinda sketchy  so I try to be home as much
+  - text: The neighbourhood I live in is kinda sketchy so I try to be home as much
       as possible to protect my kids.
-    sound: {fileID: 8300000, guid: 149cdae28f731a9449a134b96216430d, type: 3}
+    sound: {fileID: 8300000, guid: 4f43e7a5bf3a8494cbd5903aa0cb71f4, type: 3}
     imageObject: {fileID: 221653307}
-  - text: One night, my kids and I were asleep in bed when I heard the  doorknob
-      of the back door jiggle.
-    sound: {fileID: 8300000, guid: e43b7c94adb1ab9419c9bc2925313c51, type: 3}
+  - text: One night, my kids and I were asleep in bed when I heard the doorknob of
+      the back door jiggle. I knew what was happening so I grabbed a knife and ran
+      into my kids bedroom and told them to be quiet. I could hear the burglar walking
+      around my house calling for me to come out.
+    sound: {fileID: 8300000, guid: 1a7694c0bcd32d54696d514ad5dd0bd8, type: 3}
     imageObject: {fileID: 221653307}
-  - text: I knew what was happening so I grabbed a knife and ran into my kids bedroom
-      and told them to be  quiet.
-    sound: {fileID: 8300000, guid: e5f2dc70b7490b74997dabcb6439adfd, type: 3}
+  - text: I knew if I stayed in the bedroom, he would find my kids and put them in
+      danger.
+    sound: {fileID: 8300000, guid: fbd7c756c73cc754abd03583b1bbc867, type: 3}
     imageObject: {fileID: 221653307}
-  - text: I could hear the burglar walking around my house calling for me to come
-      out.
-    sound: {fileID: 8300000, guid: be24e7857e14ea94d85e7b4e474a175c, type: 3}
-    imageObject: {fileID: 221653307}
-  - text: I knew if I stayed in the bedroom, he would  fiond my kids and put them
-      in danger.
-    sound: {fileID: 8300000, guid: a94bb7c4b57322e49a7100b2b05fad6a, type: 3}
-    imageObject: {fileID: 221653307}
-  - text: So I walked into the lounge room to confront the man and tell him to leave
-      when I noticed he  has been on the news for kidnapping children, he had a large
-      knife too.
-    sound: {fileID: 8300000, guid: a94bb7c4b57322e49a7100b2b05fad6a, type: 3}
+  - text: 'So I walked into the lounge room to confront the man and tell him to leave
+      when I noticed he has been on the news for kidnapping children, he had a large
+      knife too. '
+    sound: {fileID: 8300000, guid: 94604e40283ee0c45a5cfc188703dfed, type: 3}
     imageObject: {fileID: 221653307}
   - text: He noticed the photos of my kids and told me to tell him where they were,
       I refused and told him to get out or I would call the police.
-    sound: {fileID: 8300000, guid: a94bb7c4b57322e49a7100b2b05fad6a, type: 3}
+    sound: {fileID: 8300000, guid: 08d8543180b22e040bc88980dd12b7f6, type: 3}
     imageObject: {fileID: 221653307}
   - text: After I said this, he lunged toward me and managed to cut my forearm with
-      the knife and this is where I retaliated  and I saw red.
-    sound: {fileID: 8300000, guid: a94bb7c4b57322e49a7100b2b05fad6a, type: 3}
+      the knife and this is where I retaliated and I saw red.
+    sound: {fileID: 8300000, guid: 7b3d3e67049e6b84ca3c4d712b43acdc, type: 3}
     imageObject: {fileID: 221653307}
   - text: I stood up and knew I would have to take him down to protect my kids so
       I walked behind him and slit his throat.
-    sound: {fileID: 8300000, guid: a94bb7c4b57322e49a7100b2b05fad6a, type: 3}
+    sound: {fileID: 8300000, guid: 76c9507e671aadc47a494570b17ae75d, type: 3}
     imageObject: {fileID: 221653307}
-  - text: I knew if I stayed in the bedroom, he would  fiond my kids and put them
-      in danger.
-    sound: {fileID: 8300000, guid: a94bb7c4b57322e49a7100b2b05fad6a, type: 3}
+  - text: I know murder is very wrong, but it was self defence, he was trying to
+      take my kids.
+    sound: {fileID: 8300000, guid: e5d5dd903b05b2440840713a9351c1d4, type: 3}
     imageObject: {fileID: 221653307}
   nextCanvas: {fileID: 930872452}
   canvasToDisable: {fileID: 1978789140}
