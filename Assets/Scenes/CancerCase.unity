@@ -3708,7 +3708,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a18395b783efb9d4c8b70210af07f717, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: TitleScreen
+  sceneName: KidnappingStabbing
 --- !u!4 &2005932615
 Transform:
   m_ObjectHideFlags: 0

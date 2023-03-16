@@ -27,4 +27,6 @@ public class MoraleSystem : MonoBehaviour
         guiltyValue++;
         PlayerPrefs.SetInt("Guilty", guiltyValue);
     }
+
+    //PlayerPrefs.GetInt("Guilty", 0)
 }

@@ -9,9 +9,24 @@ EditorBuildSettings:
     path: Assets/Scenes/TitleScreen.unity
     guid: 21e62216ab2e61b4facd6a3dd6546b10
   - enabled: 1
-    path: Assets/Scenes/CourtCaseTest.unity
-    guid: 61d2767b35e1a2548b71243b96008a84
-  - enabled: 1
     path: Assets/Scenes/CrazyNoisyBizareCourt.unity
     guid: e7fb133976b59344c8ef9d3258aa764d
+  - enabled: 1
+    path: Assets/Scenes/AbusiveFather.unity
+    guid: b747b3a17312aa449b470b5c73772ba9
+  - enabled: 1
+    path: Assets/Scenes/CancerCase.unity
+    guid: a44e91fa05e409f4186b1b1ca144bc7d
+  - enabled: 1
+    path: Assets/Scenes/KidnappingStabbing.unity
+    guid: 6194f1f0d995d944bb78202c99178203
+  - enabled: 1
+    path: Assets/Scenes/SexualHarassment.unity
+    guid: 5a02ce5d83871b244bad7e8ac7752ef0
+  - enabled: 1
+    path: Assets/Scenes/UniPlagerism.unity
+    guid: 4182d005fa4282f4ba5e9e793e89c70b
+  - enabled: 1
+    path: Assets/Scenes/Results.unity
+    guid: ccce826fd4c03a24bb98e16168e058d3
   m_configObjects: {}

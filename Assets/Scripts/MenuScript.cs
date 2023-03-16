@@ -38,9 +38,9 @@ public class MenuScript : MonoBehaviour
 
 
     // 
-    public void CourtCaseTest()
+    public void Case1()
     {
-        SceneManager.LoadScene("CourtCaseTest");
+        SceneManager.LoadScene("AbusiveFather");
     }
 
     public void CrazyBizzareCourt()
