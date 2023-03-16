@@ -29,4 +29,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Results.unity
     guid: ccce826fd4c03a24bb98e16168e058d3
+  - enabled: 1
+    path: Assets/Scenes/InvalidOpinion.unity
+    guid: e7535e70589e2014b877eda58624107c
+  - enabled: 1
+    path: Assets/Scenes/TrollsCase.unity
+    guid: 8230b7c379bd36b4eb82b0e2c17b7ab8
+  - enabled: 1
+    path: Assets/Scenes/TwitchFollowers.unity
+    guid: bc2ad862fd64d874d83ce158b193e811
+  - enabled: 1
+    path: Assets/Scenes/FortnitePlot.unity
+    guid: 65e7dd928ad7cf643abf5a7dd317ebef
+  - enabled: 1
+    path: Assets/Scenes/CanWeGetMuchHigher.unity
+    guid: a44edbc082763094990c365852f40458
   m_configObjects: {}
