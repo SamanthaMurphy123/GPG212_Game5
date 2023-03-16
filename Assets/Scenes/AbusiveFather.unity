@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028352, g: 0.22571376, b: 0.30692244, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -2254,38 +2254,40 @@ MonoBehaviour:
   texts:
   - text: I have a 5 year old child called Ashley and I have been her sole carer
       for 3 years now.
-    sound: {fileID: 8300000, guid: e417d622219bb244cad581dadbc722ee, type: 3}
+    sound: {fileID: 8300000, guid: b0bc0ab41baac0d4d999596b898f62b1, type: 3}
     imageObject: {fileID: 221653307}
   - text: Her father and I were in a strong relationship for 10 years before I got
       pregnant with Ashley and as soon as I gave birth to her, her father started
       becoming very abusive toward me.
-    sound: {fileID: 8300000, guid: 149cdae28f731a9449a134b96216430d, type: 3}
+    sound: {fileID: 8300000, guid: 4a2ef6ecad13641449021d6d7767bcec, type: 3}
     imageObject: {fileID: 221653307}
-  - text: I have been hospitalised multiple times  with extensive bruising, broken
-      bones and so many concussions.
-    sound: {fileID: 8300000, guid: e43b7c94adb1ab9419c9bc2925313c51, type: 3}
+  - text: 'I have been hospitalised multiple times with extensive bruising, broken
+      bones and so many concussions. '
+    sound: {fileID: 8300000, guid: 514c0ee261a6fe74babdabaee0dac6f6, type: 3}
     imageObject: {fileID: 221653307}
   - text: I tried to leave so many times but every time, he always found a way to
       make me stay.
-    sound: {fileID: 8300000, guid: e5f2dc70b7490b74997dabcb6439adfd, type: 3}
+    sound: {fileID: 8300000, guid: e45debfafd97fbc47a298f45c958703f, type: 3}
     imageObject: {fileID: 221653307}
-  - text: We have now split up and living apart from each other but he has constantly
-      been trying to get Ashley to spend the night with him and his new girlfriend 
-      and I cannot bare the thought of leaving my child in ther hands of a manipulative
+  - text: 'We have now split up and living apart from each other but he has constantly
+      been trying to get Ashley to spend the night with him and his new girlfriend. '
+    sound: {fileID: 8300000, guid: 7dfd27c0aa8a41045a70f97414334045, type: 3}
+    imageObject: {fileID: 221653307}
+  - text: And I cannot bare the thought of leaving my child in the hands of a manipulative
       and dangerous man.
-    sound: {fileID: 8300000, guid: be24e7857e14ea94d85e7b4e474a175c, type: 3}
+    sound: {fileID: 8300000, guid: 8230e538fae2610419e3269e08cbb4fe, type: 3}
     imageObject: {fileID: 221653307}
   - text: His new girlfriend has a huge house and lots of money to buy Ashley things
       she needs and wants, and I am barely able to afford rent for our apartment
       and groceries.
-    sound: {fileID: 8300000, guid: a94bb7c4b57322e49a7100b2b05fad6a, type: 3}
+    sound: {fileID: 8300000, guid: 53922a28ce6d24740b7f354d53b06bc9, type: 3}
     imageObject: {fileID: 221653307}
-  - text: I know he is her father  but I need to have full custody of Ashley and
-      to get a restraining order for both of us against this man.
-    sound: {fileID: 8300000, guid: a94bb7c4b57322e49a7100b2b05fad6a, type: 3}
+  - text: I know he is her father but I need to have full custody of Ashley and to
+      get a restraining order for both of us against this man.
+    sound: {fileID: 8300000, guid: 50f44c0a9e5e3034abef195d9f175524, type: 3}
     imageObject: {fileID: 221653307}
   - text: Please, I cannnot deal with this any longer!
-    sound: {fileID: 8300000, guid: a94bb7c4b57322e49a7100b2b05fad6a, type: 3}
+    sound: {fileID: 8300000, guid: fb860be6a0e418b48bedcc10be08b28b, type: 3}
     imageObject: {fileID: 221653307}
   nextCanvas: {fileID: 930872452}
   canvasToDisable: {fileID: 1978789140}

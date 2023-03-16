@@ -21,8 +21,8 @@ public class Results : MonoBehaviour
         float percentage = (stat1Value / 5) * 100f;
         float percentage2 = (stat2Value / 5) * 100f;
 
-        InnocentpercentageText.text = "Innocent: " + percentage.ToString() + "%";
-        GuiltypercentageText.text = "Guilty: " + percentage2.ToString() + "%";
+        InnocentpercentageText.text = "You said " + percentage.ToString() + "%" + " of cases were innocent";
+        GuiltypercentageText.text = "You said " + percentage2.ToString() + "%" + " of cases were guilty";
 
 
         //MoraleRankText.text = "You are"+percentage.ToString() + "%" + "Forgiving";
