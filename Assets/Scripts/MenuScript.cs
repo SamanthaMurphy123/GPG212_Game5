@@ -36,15 +36,16 @@ public class MenuScript : MonoBehaviour
         SceneManager.LoadScene("TitleScreen");
     }
 
+
     // 
     public void CourtCaseTest()
     {
         SceneManager.LoadScene("CourtCaseTest");
     }
 
-    public void HomeRun()
+    public void CrazyBizzareCourt()
     {
-        SceneManager.LoadScene("LaunchTheBozo");
+        SceneManager.LoadScene("CrazyNoisyBizareCourt");
     }
 
     public void LobbyHub()

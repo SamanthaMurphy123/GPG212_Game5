@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/CourtCaseTest.unity
     guid: 61d2767b35e1a2548b71243b96008a84
+  - enabled: 1
+    path: Assets/Scenes/CrazyNoisyBizareCourt.unity
+    guid: e7fb133976b59344c8ef9d3258aa764d
   m_configObjects: {}
